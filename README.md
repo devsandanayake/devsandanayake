@@ -1,4 +1,4 @@
- ![MasterHead](https://www.google.lk/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fokoliechykwuka%2Fokoliechykwuka&psig=AOvVaw1wmJpwPYCq19X5Ble4esQQ&ust=1678521559920000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLjwhpzy0P0CFQAAAAAdAAAAABAJ)
+ ![MasterHead](https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966)
  <h1 align="center">Hi 👋, I'm Devin Sandanayke</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt = "Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
