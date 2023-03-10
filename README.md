@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/devsandanayake" target="blank"><img src="https://img.shields.io/twitter/follow/devsandanayake?logo=twitter&style=for-the-badge" alt="devsandanayake" /></a> </p>
 
-<img align="right" width="400" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" width="350" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [phone shop management system](https://github.com/SLIITITP/ITP_WD_B07_G10)
 
