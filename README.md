@@ -11,7 +11,7 @@
 
 <img align="right" width="400" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [phone shop management system](https://github.com/SLIITITP/ITP_WD_B07_G10)
+- 🔭 I’m currently working on [management system](https://github.com/SLIITITP/ITP_WD_B07_G10)
 
 - 🌱 I’m currently learning **React Native**
 
