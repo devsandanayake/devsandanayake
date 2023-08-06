@@ -11,11 +11,9 @@
 
 <img align="right" width="400" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [management system](https://github.com/SLIITITP/ITP_WD_B07_G10)
-
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://devinsandanayake.netlify.app/](https://devinsandanayake.netlify.app/)
+- 👨‍💻 WebSite  [https://devsnayake.me/](https://devsnayake.me/)
 
 - 📝 I regularly write articles on [https://devinsandanayake.medium.com/](https://devinsandanayake.medium.com/)
 
