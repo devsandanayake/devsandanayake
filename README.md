@@ -1,7 +1,8 @@
- ![MasterHead](https://github.com/devsandanayake/devsandanayake/assets/92626638/ca6daa92-6f30-435d-a269-a1dc72dfcb7a)
-
- <h1 align="left">Hi 👋, I'm Devin Sandanayke IT21265174</h1>
-<h3 align="left">A full-stack developer from Sri Lanka</h3>
+<p align="center">
+  <img src="https://github.com/devsandanayake/devsandanayake/assets/92626638/ca6daa92-6f30-435d-a269-a1dc72dfcb7a" alt="MasterHead">
+</p>
+<h1 align="center">Hi 👋, I'm Devin Sandanayke IT21265174</h1>
+<h3 align="center">A full-stack developer from Sri Lanka</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devsandanayake&label=Profile%20views&color=0e75b6&style=flat" alt="devsandanayake" /> </p>
