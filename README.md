@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/devsandanayake" target="blank"><img src="https://img.shields.io/twitter/follow/devsandanayake?logo=twitter&style=for-the-badge" alt="devsandanayake" /></a> </p>
 
-<img align="right" width="400" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+ 
 
 - 🌱 I’m currently learning **React Native**
 
@@ -43,7 +43,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devsandanayake&" alt="devsandanayake" /></p>
 
 
-**🐍 Activity Snake**:
-
-|![Animation](https://raw.githubusercontent.com/bylickilabs/bylickilabs/output/github-contribution-grid-snake-dark.svg)|
-|---|
+ 
