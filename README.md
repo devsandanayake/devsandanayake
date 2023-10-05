@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/devsandanayake/devsandanayake/assets/92626638/ca6daa92-6f30-435d-a269-a1dc72dfcb7a" alt="MasterHead">
 </p>
-<h1 align="center">Hi 👋, I'm Devin Sandanayke IT21265174</h1>
+<h1 align="center">Hi 👋, I'm Devin Sandanayke</h1>
 <h3 align="center">A full-stack developer from Sri Lanka</h3>
 
 
