@@ -15,13 +15,13 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 WebSite  [https://devsnayake.me/](https://devsnayake.me/)
+- 👨‍💻 WebSite  [https://sandanayake.me/](https://sandanayake.me/)
 
 - 📝 I regularly write articles on [https://devinsandanayake.medium.com/](https://devinsandanayake.medium.com/)
 
 - 💬 Ask me about **Android , MERN**
 
-- 📫 How to reach me **devinsandanayake49@gmail.com**
+- 📫 How to reach me **mail@sandanayake.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
